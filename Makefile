@@ -1,4 +1,4 @@
-uruchom: : funkcja
+uruchom: funkcja
 	./funkcja
 funkcja: program.o imienazwisko.o
 	g++ program.o imienazwisko.o
